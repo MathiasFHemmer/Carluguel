@@ -1,2 +1,3 @@
-# CarluguelLP
-Repo para criação de uma LP de aluguél de carros
+# Open Road
+
+Uma homepage para uma empresa de locação de carros
